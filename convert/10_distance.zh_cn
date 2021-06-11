@@ -1,0 +1,153 @@
+[basic]
+Caption=长度
+info=来自 CalcToolbox2
+RowCount=30
+DefaultDecimalPlaces=2
+VAR1=L
+VAR2=D
+
+[item]
+Row_1_1=千米 (km)
+Row_1_2=1 km = 1000 m
+Row_1_fomula1=L*1000
+Row_1_fomula2=D/1000
+
+Row_2_1=米
+Row_2_2=
+Row_2_fomula1=L
+Row_2_fomula2=D
+
+Row_3_1=分米 (dm)
+Row_3_2=1 m = 10 dm
+Row_3_fomula1=L/10
+Row_3_fomula2=D*10
+
+Row_4_1=厘米 (cm)
+Row_4_2=1 m = 100 cm
+Row_4_fomula1=L/100
+Row_4_fomula2=D*100
+
+Row_5_1=毫米 (mm)
+Row_5_2=1 m = 1000 mm
+Row_5_fomula1=L/1000
+Row_5_fomula2=D*1000
+
+Row_6_1=微米 (um)
+Row_6_2=1 mm = 1000 um
+Row_6_fomula1=L/1000000
+Row_6_fomula2=D*1000000
+
+Row_7_1=纳米 (nm)
+Row_7_2=1 um = 1000 nm
+Row_7_fomula1=L/1e9
+Row_7_fomula2=D*1e9
+
+Row_8_1=
+Row_8_2=
+Row_8_fomula1=
+Row_8_fomula2=
+
+Row_9_1=英里 (mi)
+Row_9_2=1 mi = 5280 ft
+Row_9_fomula1=L*(0.0254 * 36 * 1760)
+Row_9_fomula2=D/(0.0254 * 36 * 1760)
+
+Row_10_1=英寻 (fm)
+Row_10_2=1 fm = 6 ft
+Row_10_fomula1=L*(0.0254 * 72)
+Row_10_fomula2=D/(0.0254 * 72)
+
+Row_11_1=码 (yd)
+Row_11_2=1 yd = 3 ft
+Row_11_fomula1=L*(0.0254 * 36)
+Row_11_fomula2=D/(0.0254 * 36)
+
+Row_12_1=英尺 (ft)
+Row_12_2=1 ft = 12 in
+Row_12_fomula1=L*(0.0254 * 12)
+Row_12_fomula2=D/(0.0254 * 12)
+
+Row_13_1=英寸 (in)
+Row_13_2=1 in = 1000 mil
+Row_13_fomula1=L*0.0254
+Row_13_fomula2=D/0.0254
+
+Row_14_1=mil
+Row_14_2=100 mil = 2.54 cm
+Row_14_fomula1=L*0.0000254
+Row_14_fomula2=D/0.0000254
+
+Row_15_1=
+Row_15_2=
+Row_15_fomula1=
+Row_15_fomula2=
+
+Row_16_1=海里 (国际)
+Row_16_2=1 nm = 1852 m
+Row_16_fomula1=L*1852
+Row_16_fomula2=D/1852
+
+Row_17_1=海里 (美国)
+Row_17_2=1 nm (US) = 1852 m
+Row_17_fomula1=L*1852
+Row_17_fomula2=D/1852
+
+Row_18_1=海里 (英国)
+Row_18_2=1 nm (UK) = 1853.184 m
+Row_18_fomula1=L*1853.184
+Row_18_fomula2=D/1853.184
+
+Row_19_1=弗隆 (fur)
+Row_19_2=1 fur = 660 ft
+Row_19_fomula1=L*(660 * 0.0254 * 12)
+Row_19_fomula2=D/(660 * 0.0254 * 12)
+
+Row_20_1=链
+Row_20_2=1 cable = 600 ft
+Row_20_fomula1=L*(600 * 0.0254 * 12)
+Row_20_fomula2=D/(600 * 0.0254 * 12)
+
+Row_21_1=测链
+Row_21_2=1 chain = 66 ft
+Row_21_fomula1=L*(66 * 0.0254 * 12)
+Row_21_fomula2=D/(66 * 0.0254 * 12)
+
+Row_22_1=
+Row_22_2=
+Row_22_fomula1=
+Row_22_fomula2=
+
+Row_23_1=里
+Row_23_2=1 li = 500 m
+Row_23_fomula1=L*500
+Row_23_fomula2=D/500
+
+Row_24_1=丈
+Row_24_2=1 zhang = 10 chi
+Row_24_fomula1=L*10/3
+Row_24_fomula2=D*0.3
+
+Row_25_1=尺
+Row_25_2=1 m = 3 chi
+Row_25_fomula1=L/3
+Row_25_fomula2=D*3
+
+Row_26_1=寸
+Row_26_2=1 chi = 10 cun
+Row_26_fomula1=L/30
+Row_26_fomula2=D*30
+
+Row_27_1=
+Row_27_2=
+Row_27_fomula1=
+Row_27_fomula2=
+
+Row_28_1=光年
+Row_28_2=1 light year = 9.46*10E15 m
+Row_28_fomula1=L*9460730472580800
+Row_28_fomula2=D/9460730472580800
+
+Row_29_1=天文单位 (AU)
+Row_29_2=1 AU = 149597870691 m
+Row_29_fomula1=L*149597870691
+Row_29_fomula2=D/149597870691

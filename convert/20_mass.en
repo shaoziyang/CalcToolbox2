@@ -1,0 +1,99 @@
+[basic]
+Caption=Mass
+info=from CalcToolbox2
+RowCount=18
+DefaultDecimalPlaces=4
+VAR1=X
+VAR2=G
+
+[item]
+Row_1_1=tonne (t)
+Row_1_2=1 t = 1000 kg
+Row_1_fomula1=X*1000
+Row_1_fomula2=G/1000
+
+Row_2_1=kilogram (kg)
+Row_2_2=1 kg = 1000 g
+Row_2_fomula1=X
+Row_2_fomula2=G
+
+Row_3_1=gram (g)
+Row_3_2=
+Row_3_fomula1=X/1000
+Row_3_fomula2=G*1000
+
+Row_4_1=
+Row_4_2=
+Row_4_fomula1=
+Row_4_fomula2=
+
+Row_5_1=ton (tn long)
+Row_5_2=1 tn long = 1016.0469 kg
+Row_5_fomula1=X*1016.0469088
+Row_5_fomula2=G/1016.0469088
+
+Row_6_1=ton (tn short)
+Row_6_2=1 tn short = 907.18474kg
+Row_6_fomula1=X*907.18474
+Row_6_fomula2=G/907.18474
+
+Row_7_1=hundredweight (sh cwt)
+Row_7_2=1 sh cwt = 100 lb
+Row_7_fomula1=X*45.359237
+Row_7_fomula2=G/45.359237
+
+Row_8_1=hundredweight (cwt)
+Row_8_2=1 cwt = 112 lb
+Row_8_fomula1=X*50.80234544
+Row_8_fomula2=G/50.80234544
+
+Row_9_1=stone (st)
+Row_9_2=1 st = 14 lb
+Row_9_fomula1=X*6.35029318
+Row_9_fomula2=G/6.35029318
+
+Row_10_1=pound (lb)
+Row_10_2=1 lb = 0.45359 kg
+Row_10_fomula1=X*0.45359237
+Row_10_fomula2=G/0.45359237
+
+Row_11_1=pound (lb troy)
+Row_11_2=1 lb = 0.373242 kg
+Row_11_fomula1=X*0.3732417216
+Row_11_fomula2=G/0.3732417216
+
+Row_12_1=ounce (oz)
+Row_12_2=1 lb = 16 oz
+Row_12_fomula1=X*0.028349523125
+Row_12_fomula2=G/0.028349523125
+
+Row_13_1=carat (ct)
+Row_13_2=1 ct = 0.20519655 g
+Row_13_fomula1=X*0.000205196548333334
+Row_13_fomula2=G/0.000205196548333334
+
+Row_14_1=carat (ct metric)
+Row_14_2=1 ct metric = 0.2 g
+Row_14_fomula1=X*0.0002
+Row_14_fomula2=G/0.0002
+
+Row_15_1=
+Row_15_2=
+Row_15_fomula1=
+Row_15_fomula2=
+
+Row_16_1=jin
+Row_16_2=1 jin = 500 g
+Row_16_fomula1=X*0.5
+Row_16_fomula2=G/0.5
+
+Row_17_1=liang
+Row_17_2=1 liang = 50 g
+Row_17_fomula1=X*0.05
+Row_17_fomula2=G/0.05
+
+Row_18_1=qian
+Row_18_2=1 qian = 5 g
+Row_18_fomula1=X*0.005
+Row_18_fomula2=G/0.005
+

@@ -1,0 +1,18 @@
+[basic]
+Caption=Template
+Info=from CalcToolbox2
+RowCount=10
+DefaultDecimalDigits=2
+VAR1=X
+VAR2=D
+
+[item]
+Row_1_1=item1
+Row_1_2=description
+Row_1_fomula1=X
+Row_1_fomula2=D
+
+Row_2_1=item2
+Row_2_2=10X
+Row_2_fomula1=X/10
+Row_2_fomula2=D*10

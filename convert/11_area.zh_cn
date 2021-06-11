@@ -1,0 +1,88 @@
+[basic]
+Caption=面积
+info=来自 CalcToolbox2
+RowCount=15
+DefaultDecimalPlaces=3
+VAR1=X
+VAR2=S
+
+[item]
+Row_1_1=平方公里 (km²)
+Row_1_2=1 km² = 1000000 m²
+Row_1_fomula1=X*1000000
+Row_1_fomula2=S/1000000
+
+Row_2_1=公顷 (ha)
+Row_2_2=1 ha = 10000 m²
+Row_2_fomula1=X*10000
+Row_2_fomula2=S/10000
+
+Row_3_1=平方米 (m²)
+Row_3_2=
+Row_3_fomula1=X
+Row_3_fomula2=S
+
+Row_4_1=平方厘米 (cm²)
+Row_4_2=1 m² = 10000 cm²
+Row_4_fomula1=X/10000
+Row_4_fomula2=S*10000
+
+Row_5_1=
+Row_5_2=
+Row_5_fomula1=
+Row_5_fomula2=
+
+Row_6_1=平方英里 (mi²)
+Row_6_2=1 mi² = 5280*5280 ft²
+Row_6_fomula1=X*(0.0254 * 12 * 5280)**2
+Row_6_fomula2=S/(0.0254 * 12 * 5280)**2
+
+Row_7_1=平方码 (yd²)
+Row_7_2=1 yd² = 9 ft²
+Row_7_fomula1=X*(0.0254 * 36)**2
+Row_7_fomula2=S/(0.0254 * 36)**2
+
+Row_8_1=平方英尺 (ft²)
+Row_8_2=1 ft² = 144 in²
+Row_8_fomula1=X*(0.0254 * 12)**2
+Row_8_fomula2=S/(0.0254 * 12)**2
+
+Row_9_1=平方英寸 (in²)
+Row_9_2=1 in² = 0.0254² m²
+Row_9_fomula1=X*0.0254**2
+Row_9_fomula2=S/0.0254**2
+
+Row_10_1=平方密尔 (mil²)
+Row_10_2=1 in² = 1000000 mil²
+Row_10_fomula1=X*0.0000254**2
+Row_10_fomula2=S/0.0000254**2
+
+Row_11_1=
+Row_11_2=
+Row_11_fomula1=X
+Row_11_fomula2=S
+
+Row_12_1=亩
+Row_12_2=1 mu = 666.67 m²
+Row_12_fomula1=X*2000/3
+Row_12_fomula2=S*3/2000
+
+Row_13_1=英亩 (ac)
+Row_13_2=1 ac = 4046.85642 m²
+Row_13_fomula1=X*4046.8564224
+Row_13_fomula2=S/4046.8564224
+
+Row_14_1=公亩
+Row_14_2=1 are = 100 m²
+Row_14_fomula1=X*100
+Row_14_fomula2=S/100
+
+Row_15_1=路得 (ro)
+Row_15_2=1 ro = 101171.41056 m²
+Row_15_fomula1=X*101171.41056
+Row_15_fomula2=S/101171.41056
+
+Row_16_1=
+Row_16_2=
+Row_16_fomula1=X
+Row_16_fomula2=S

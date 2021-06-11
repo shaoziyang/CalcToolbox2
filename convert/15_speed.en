@@ -1,0 +1,138 @@
+[basic]
+Caption=Speed
+info=from CalcToolbox2
+RowCount=30
+DefaultDecimalPlaces=3
+VAR1=X
+VAR2=V
+
+[item]
+Row_1_1=kilometer/hour (km/h)
+Row_1_2=1 km/h = 1000m/h = 1000/3600 m/s
+Row_1_fomula1=X*1000/3600
+Row_1_fomula2=V*3600/1000
+
+Row_2_1=kilometer/minute (km/min)
+Row_2_2=1 km/min = 1000m/min = 1000/60 m/s
+Row_2_fomula1=X*1000/60
+Row_2_fomula2=V*60/1000
+
+Row_3_1=kilometer/second (km/sec)
+Row_3_2=1 km/s = 1000 m/s
+Row_3_fomula1=X*1000
+Row_3_fomula2=V/1000
+
+Row_4_1=meter/hour (m/hr)
+Row_4_2=1 m/hr = 3600 m/s
+Row_4_fomula1=X/3600
+Row_4_fomula2=V*3600
+
+Row_5_1=meter/minute (m/min)
+Row_5_2=1 m/min = 60m/s
+Row_5_fomula1=X/60
+Row_5_fomula2=V*60
+
+Row_6_1=meter/second (m/sec)
+Row_6_2=
+Row_6_fomula1=X
+Row_6_fomula2=V
+
+Row_7_1=centimeter/hour (cm/hr)
+Row_7_2=1 cm/hr = 1/360000 m/s
+Row_7_fomula1=X/360000
+Row_7_fomula2=V*360000
+
+Row_8_1=centimeter/minute (cm/min)
+Row_8_2=1 cm/min = 1/6000 m/s
+Row_8_fomula1=X/6000
+Row_8_fomula2=V*6000
+
+Row_9_1=centimeter/second (cm/sec)
+Row_9_2=1 cm/s = 1/100 m/s
+Row_9_fomula1=X/100
+Row_9_fomula2=V*100
+
+Row_10_1=
+Row_10_2=
+Row_10_fomula1=
+Row_10_fomula2=
+
+Row_11_1=mile/hour (mph)
+Row_11_2=1 mph = 0.0254 * 12 * 5280 m/hr
+Row_11_fomula1=X*(0.0254 * 12 * 5280)/3600
+Row_11_fomula2=V*3600/(0.0254 * 12 * 5280)
+
+Row_12_1=mile/min (mi/min)
+Row_12_2=1 mi/min = 0.0254 * 12 * 5280 m/min
+Row_12_fomula1=X*(0.0254 * 12 * 5280)/60
+Row_12_fomula2=V*60/(0.0254 * 12 * 5280)
+
+Row_13_1=mile/sec (mi/s)
+Row_13_2=1 mi/s = 0.0254 * 12 * 5280 m/s
+Row_13_fomula1=X*(0.0254 * 12 * 5280)
+Row_13_fomula2=V/(0.0254 * 12 * 5280)
+
+Row_14_1=yard/hour
+Row_14_2=1 mph = 0.000254 m/s
+Row_14_fomula1=X*0.0254/100
+Row_14_fomula2=V*100/0.0254
+
+Row_15_1=yard/minute
+Row_15_2=1 yd/min = 0.0254 * 60/100 m/s
+Row_15_fomula1=X*(0.0254*60)/100
+Row_15_fomula2=V*100/(0.0254*60)
+
+Row_16_1=yard/second
+Row_16_2=1 yd/s = 0.0254 * 36 m/s
+Row_16_fomula1=X*(0.0254*36)
+Row_16_fomula2=V/(0.0254*36)
+
+Row_17_1=foot/hour (ft/hr)
+Row_17_2=1 ft/hr = 0.000254/3 m/s
+Row_17_fomula1=X*0.0254/300
+Row_17_fomula2=V*300/0.0254
+
+Row_18_1=foot/min (fpm)
+Row_18_2=1 fpm = 0.0254/5 m/s
+Row_18_fomula1=X*0.0254/5
+Row_18_fomula2=V*5/0.0254
+
+Row_19_1=foot/second (fps)
+Row_19_2=1 fps = 0.0254*12 m/s
+Row_19_fomula1=X*(0.0254*12)
+Row_19_fomula2=V/(0.0254*12)
+
+Row_20_1=inch/minute (ipm)
+Row_20_2=1 ipm = 0.0254/60 m/s
+Row_20_fomula1=X*0.0254/60
+Row_20_fomula2=V*60/0.0254
+
+Row_21_1=inch/second (ips)
+Row_21_2=1 ips = 0.0254 m/s
+Row_21_fomula1=X*0.0254
+Row_21_fomula2=V/0.0254
+
+Row_22_1=
+Row_22_2=
+Row_22_fomula1=
+Row_22_fomula2=
+
+Row_23_1=knot (kn or kt)
+Row_23_2=1 kn = 1852/3600 m/s
+Row_23_fomula1=X*1852/3600
+Row_23_fomula2=V*3600/1852
+
+Row_24_1=mach (M)
+Row_24_2=1 M = 340.29 m/s
+Row_24_fomula1=X*340.29
+Row_24_fomula2=V/340.29
+
+Row_25_1=
+Row_25_2=
+Row_25_fomula1=
+Row_25_fomula2=
+
+Row_26_1=speed of light (c)
+Row_26_2=1 c = 299792458 m/s
+Row_26_fomula1=X*299792458
+Row_26_fomula2=V/299792458

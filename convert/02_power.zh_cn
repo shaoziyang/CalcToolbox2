@@ -1,0 +1,98 @@
+[basic]
+Caption=功率
+info=来自 CalcToolbox2
+RowCount=20
+DefaultDecimalPlaces=3
+VAR1=X
+VAR2=P
+
+[item]
+Row_1_1=兆瓦 (MW)
+Row_1_2=1 MW = 1000000 W
+Row_1_fomula1=X*1000000
+Row_1_fomula2=P/1000000
+
+Row_2_1=千瓦 (kW)
+Row_2_2=1 kW = 1000 W
+Row_2_fomula1=X*1000
+Row_2_fomula2=P/1000
+
+Row_3_1=瓦 (W)
+Row_3_2=
+Row_3_fomula1=X
+Row_3_fomula2=P
+
+Row_4_1=毫瓦 (mW)
+Row_4_2=1 W = 1000 mW
+Row_4_fomula1=X/1000
+Row_4_fomula2=P*1000
+
+Row_5_1=
+Row_5_2=
+Row_5_fomula1=
+Row_5_fomula2=
+
+Row_6_1=英制马力 (hp)
+Row_6_2=1 W = 0.00134102208959503 hp
+Row_6_fomula1=X*1000/1.34102208959503
+Row_6_fomula2=P*1.34102208959503/1000
+
+Row_7_1=米制马力 (hp metric)
+Row_7_2=1 W = 0.0013596216173039 hp
+Row_7_fomula1=X*1000/1.3596216173039
+Row_7_fomula2=P*1.3596216173039/1000
+
+Row_8_1=焦耳/小时
+Row_8_2=1 W = 3600 焦耳/小时
+Row_8_fomula1=X/3600
+Row_8_fomula2=P*3600
+
+Row_9_1=焦耳/分
+Row_9_2=1 W = 60 焦耳/分
+Row_9_fomula1=X/60
+Row_9_fomula2=P*60
+
+Row_10_1=焦耳/秒
+Row_10_2=1 W = 1 焦耳/秒
+Row_10_fomula1=X
+Row_10_fomula2=P
+
+Row_11_1=千卡/小时 (kcal/hr)
+Row_11_2=1 W = 3600/4186.8 kcal/hr
+Row_11_fomula1=X*4.1868/3.6
+Row_11_fomula2=P*3.6/4.1868
+
+Row_12_1=千卡/分 (kcal/min)
+Row_12_2=1 W = 60/4186.8 kcal/min
+Row_12_fomula1=X*418.68/6
+Row_12_fomula2=P*6/418.68
+
+Row_13_1=千卡/秒 (kcal/s)
+Row_13_2=1 W = 1/4186.8 kcal/s
+Row_13_fomula1=X*4186.8
+Row_13_fomula2=P/4186.8
+
+Row_14_1=英热单位/秒 (BTU/s)
+Row_14_2=1 W = 1/1055.05585262 BTU/s
+Row_14_fomula1=X*1055.05585262
+Row_14_fomula2=P/1055.05585262
+
+Row_15_1=英尺·磅/秒 (ft lbf/s)
+Row_15_2=1 W = 1/1.3558179483314 ft lbf/s
+Row_15_fomula1=X*1.3558179483314
+Row_15_fomula2=P/1.3558179483314
+
+Row_16_1=千克力 米/秒 (m kgf/s)
+Row_16_2=1 W = 1/9.80665 m kgf/s
+Row_16_fomula1=X*9.80665
+Row_16_fomula2=P/9.80665
+
+Row_17_1=
+Row_17_2=
+Row_17_fomula1=
+Row_17_fomula2=
+
+Row_18_1=分贝毫瓦 (dBm)
+Row_18_2=1 dBm = 10*log10(mW)
+Row_18_fomula1=10**(X/10)/1000
+Row_18_fomula2=10*log10(P*1000)

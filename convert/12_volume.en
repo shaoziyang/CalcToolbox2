@@ -1,0 +1,89 @@
+[basic]
+Caption=Volume
+info=from CalcToolbox2
+RowCount=18
+DefaultDecimalPlaces=4
+VAR1=X
+VAR2=V
+
+[item]
+Row_1_1=cubic meter (m³)
+Row_1_2=
+Row_1_fomula1=X
+Row_1_fomula2=V
+
+Row_2_1=cubic decimeter (dm³)
+Row_2_2=1 m³ = 1000 dm³
+Row_2_fomula1=X/1000
+Row_2_fomula2=V*1000
+
+Row_3_1=cubic centimeter (cm³)
+Row_3_2=1 m³ = 1000000 cm³
+Row_3_fomula1=X/1000000
+Row_3_fomula2=V*1000000
+
+Row_5_1=cubic yard (yd³)
+Row_5_2=1 yd³ = 27 ft³
+Row_5_fomula1=X*(0.0254 * 36)**3
+Row_5_fomula2=V/(0.0254 * 36)**3
+
+Row_6_1=cubic foot (ft³)
+Row_6_2=1 ft³ = 12³ ft³
+Row_6_fomula1=X*(0.0254 * 12)**3
+Row_6_fomula2=V/(0.0254 * 12)**3
+
+Row_7_1=cubic inch (in³)
+Row_7_2=1 in³ = 0.0254³ m³
+Row_7_fomula1=X*0.0254**3
+Row_7_fomula2=V/0.0254**3
+
+Row_8_1=acre-foot
+Row_8_2=1 acre-foot = 1233.48183754752 m³
+Row_8_fomula1=X*(0.043560 * 1728 * 16.387064)
+Row_8_fomula2=V/(0.043560 * 1728 * 16.387064)
+
+Row_10_1=liter (L)
+Row_10_2=1 L = 0.001 m³
+Row_10_fomula1=X/1000
+Row_10_fomula2=V*1000
+
+Row_11_1=gallon (UK)
+Row_11_2=1 gal UK = 4.54609 L
+Row_11_fomula1=X*0.00454609
+Row_11_fomula2=V/0.00454609
+
+Row_12_1=gallon (US)
+Row_12_2=1 L = 3.785 L
+Row_12_fomula1=X*0.003785
+Row_12_fomula2=V/0.003785
+
+Row_13_1=barrel (UK)
+Row_13_2=1 bl UK = 163.65924 L
+Row_13_fomula1=X*0.16365924
+Row_13_fomula2=V/0.16365924
+
+Row_14_1=barrel (petroleum)
+Row_14_2=1 bl petroleum = 158.987 L
+Row_14_fomula1=X*0.158987294928
+Row_14_fomula2=V/0.158987294928
+
+Row_15_1=quart (qt UK)
+Row_15_2=1 qt UK = 1.1365225 L
+Row_15_fomula1=X*0.0011365225
+Row_15_fomula2=V/0.0011365225
+
+Row_16_1=quart (qt US)
+Row_16_2=1 qt US = 1.101 L
+Row_16_fomula1=X*0.001101220942715
+Row_16_fomula2=V/0.001101220942715
+
+Row_17_1=pint (pt UK)
+Row_17_2=1 pt UK = 0.5682 L
+Row_17_fomula1=X*0.00056826125
+Row_17_fomula2=V/0.00056826125
+
+Row_18_1=pint (pt US)
+Row_18_2=1 pt US = 0.5506 L
+Row_18_fomula1=X*0.0005506104713575
+Row_18_fomula2=V/0.0005506104713575
+

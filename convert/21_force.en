@@ -1,0 +1,98 @@
+[basic]
+Caption=Force
+info=from CalcToolbox2
+RowCount=18
+DefaultDecimalPlaces=4
+VAR1=X
+VAR2=N
+
+[item]
+Row_1_1      =meganewton (MN)
+Row_1_2      =1 MN = 1000000 N
+Row_1_fomula1=1000000*X
+Row_1_fomula2=N/1000000
+
+Row_2_1      =kilonewton (KN)
+Row_2_2      =1 KN = 1000 N
+Row_2_fomula1=1000*X
+Row_2_fomula2=N/1000
+
+Row_3_1      =Newton (N)
+Row_3_2      =
+Row_3_fomula1=X
+Row_3_fomula2=N
+
+Row_4_1      =millinewton (mN)
+Row_4_2      =1 N = 1000 mN
+Row_4_fomula1=X/1000
+Row_4_fomula2=1000*N
+
+Row_5_1      =kilogram force (kgf)
+Row_5_2      =1 kgf = 9.80665 N
+Row_5_fomula1=9.80665*X
+Row_5_fomula2=N/9.80665
+
+Row_6_1      =gram force (gf)
+Row_6_2      =1 kgf = 1000 gf
+Row_6_fomula1=0.00980665*X
+Row_6_fomula2=N/0.00980665
+
+Row_7_1      =
+Row_7_2      =
+Row_7_fomula1=
+Row_7_fomula2=
+
+Row_8_1      =kilopound (kp)
+Row_8_2      =1 kp = 1000 pound
+Row_8_fomula1=9.80665*X
+Row_8_fomula2=N/9.80665
+
+Row_9_1      =pound
+Row_9_2      =1 pound = 1 gf
+Row_9_fomula1=0.00980665*X
+Row_9_fomula2=N/0.00980665
+
+Row_10_1      =
+Row_10_2      =
+Row_10_fomula1=
+Row_10_fomula2=
+
+Row_11_1      =kip (klbf)
+Row_11_2      =1 klbf = 1000 lbf
+Row_11_fomula1=X*16*1000/3.59694308959537
+Row_11_fomula2=N*3.59694308959537/16/1000
+
+Row_12_1      =pound-force (lbf)
+Row_12_2      =1 lbf = 16 ozf
+Row_12_fomula1=X*16/3.59694308959537
+Row_12_fomula2=N*3.59694308959537/16
+
+Row_13_1      =ounce-force (ozf)
+Row_13_2      =1 ozf = 0.2780 N
+Row_13_fomula1=X/3.59694308959537
+Row_13_fomula2=N*3.59694308959537
+
+Row_14_1      =
+Row_14_2      =
+Row_14_fomula1=
+Row_14_fomula2=
+
+Row_15_1      =dyne (dyn)
+Row_15_2      =1 N = 100000 dyn
+Row_15_fomula1=X/100000
+Row_15_fomula2=N*100000
+
+Row_16_1      =tonne-force (tf)
+Row_16_2      =1 tf = 1000 gf
+Row_16_fomula1=X*9806.65
+Row_16_fomula2=N/9806.65
+    
+Row_17_1      =ton-force (tnf)
+Row_17_2      =1 tnf = 8896.44323 N
+Row_17_fomula1=X*8896.443230521
+Row_17_fomula2=N/8896.443230521
+    
+Row_18_1      =ton-force (tnf) (UK)
+Row_18_2      =1 tnf (UK) = 9964.016418 N
+Row_18_fomula1=X*9964.01641818352
+Row_18_fomula2=N/9964.01641818352

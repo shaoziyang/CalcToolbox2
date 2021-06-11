@@ -1,0 +1,441 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tfrmmain.btndigitbasecustom.caption
+msgid "custom base (3-36)"
+msgstr "自定义 (3-36)"
+
+#: tfrmmain.buttonpaneloption.helpbutton.caption
+#, fuzzy
+msgctxt "tfrmmain.buttonpaneloption.helpbutton.caption"
+msgid "&Default"
+msgstr "默认"
+
+#: tfrmmain.buttonpaneloption.okbutton.caption
+#, fuzzy
+msgctxt "tfrmmain.buttonpaneloption.okbutton.caption"
+msgid "&Apply"
+msgstr "应用"
+
+#: tfrmmain.chkchecksumfileautosavetofile.caption
+msgid "Auto save to file"
+msgstr "自动保存到文件"
+
+#: tfrmmain.chkchecksumfileautoverify.caption
+msgid "Auto verify"
+msgstr "自动验证"
+
+#: tfrmmain.chkcrchexmode.caption
+msgid "HEX mode"
+msgstr "HEX模式"
+
+#: tfrmmain.chkcrcinvin.caption
+msgid "Invert In"
+msgstr "输入翻转"
+
+#: tfrmmain.chkcrcinvout.caption
+msgid "Invert out"
+msgstr "输出翻转"
+
+#: tfrmmain.chkoptionbuttonflatsytle.caption
+msgid "Button Flat style"
+msgstr "按钮扁平样式"
+
+#: tfrmmain.chkoptionclosetotray.caption
+msgid "Close To Tray"
+msgstr "关闭到托盘"
+
+#: tfrmmain.chkoptionerrlogen.caption
+msgid "Enable log error to file"
+msgstr "记录错误到文件"
+
+#: tfrmmain.chkoptionminimizetotray.caption
+msgid "Minimize To Tray"
+msgstr "最小化到托盘"
+
+#: tfrmmain.chkoptionrmccopy.caption
+msgid "Right mouser click copy table cell to clipboard"
+msgstr "单击鼠标右键复制表格单元到剪贴板"
+
+#: tfrmmain.chkoptiontabalternatecolor.caption
+msgid "Table alternate color"
+msgstr "表格交替颜色"
+
+#: tfrmmain.chkoptiontableflatsytle.caption
+msgid "Table Flat style"
+msgstr "表格扁平样式"
+
+#: tfrmmain.chkoptiontrayicon.caption
+msgid "Enable TrayIcon"
+msgstr "启用托盘图标"
+
+#: tfrmmain.dlgopen_graph.title
+msgid "Open existing graph file"
+msgstr "打开 graph 文件"
+
+#: tfrmmain.dlgopen_littlec.title
+msgid "Open existing C file"
+msgstr "打开 C 文件"
+
+#: tfrmmain.dlgopen_mpy.title
+msgid "Open existing python file"
+msgstr "打开已有 python 文件"
+
+#: tfrmmain.dlgopen_pascal.title
+msgid "Open existing pascal file"
+msgstr "打开 pascal 文件"
+
+#: tfrmmain.dlgsave_graph.title
+msgctxt "tfrmmain.dlgsave_graph.title"
+msgid "Save pascal file as"
+msgstr "保存 pascal 文件为"
+
+#: tfrmmain.dlgsave_littlec.title
+msgid "Save C file as"
+msgstr "保存 C 文件为"
+
+#: tfrmmain.dlgsave_mpy.title
+msgid "Save python file as"
+msgstr "保存 python 文件为"
+
+#: tfrmmain.dlgsave_pascal.title
+msgctxt "tfrmmain.dlgsave_pascal.title"
+msgid "Save pascal file as"
+msgstr "保存 pascal 文件为"
+
+#: tfrmmain.gboptioncalcinterpreter.caption
+msgctxt "tfrmmain.gboptioncalcinterpreter.caption"
+msgid "Calculation Interpreter"
+msgstr "计算器解释器"
+
+#: tfrmmain.gboptionlittlec.caption
+msgctxt "tfrmmain.gboptionlittlec.caption"
+msgid "Little C"
+msgstr "Little C"
+
+#: tfrmmain.lbcalcexpression.caption
+msgid "Expression"
+msgstr "表达式"
+
+#: tfrmmain.lbcalcresult.caption
+msgid "Result"
+msgstr "结果"
+
+#: tfrmmain.lbcalcvarandfunc.caption
+msgid "Python Variables and Functions"
+msgstr "python 变量和函数"
+
+#: tfrmmain.lbchecksumfiledescription.caption
+msgid "Drop files to calculate checksum"
+msgstr "拖放文件计算校验"
+
+#: tfrmmain.lbchecksumfiles.caption
+msgid "Files"
+msgstr "文件"
+
+#: tfrmmain.lbconverttimeday.caption
+msgctxt "tfrmmain.lbconverttimeday.caption"
+msgid "Day"
+msgstr "日"
+
+#: tfrmmain.lbconverttimedaysbetween.caption
+msgid "Days Between"
+msgstr "日差"
+
+#: tfrmmain.lbconverttimedaysoftheyear.caption
+msgid "Days of the year"
+msgstr "一年中的第几天"
+
+#: tfrmmain.lbconverttimehour.caption
+msgctxt "tfrmmain.lbconverttimehour.caption"
+msgid "Hour"
+msgstr "时"
+
+#: tfrmmain.lbconverttimehoursbetween.caption
+msgid "Hours Between"
+msgstr "小时差"
+
+#: tfrmmain.lbconverttimehoursofthemonth.caption
+msgid "Hours of the Month"
+msgstr "一月中的第几小时"
+
+#: tfrmmain.lbconverttimehoursoftheyear.caption
+msgid "Hours of the year"
+msgstr "一年中的第几小时"
+
+#: tfrmmain.lbconverttimemillisecondsbetween.caption
+msgid "MilliSeconds Between"
+msgstr "毫秒差"
+
+#: tfrmmain.lbconverttimeminute.caption
+msgid "Minute"
+msgstr "分"
+
+#: tfrmmain.lbconverttimeminutesbetween.caption
+msgid "Minutes Between"
+msgstr "分钟差"
+
+#: tfrmmain.lbconverttimeminutesoftheday.caption
+msgid "Minutes of the Day"
+msgstr "一天中的第几分钟"
+
+#: tfrmmain.lbconverttimeminutesofthemonth.caption
+msgid "Minutes of the Month"
+msgstr "一月中的第几分钟"
+
+#: tfrmmain.lbconverttimeminutesoftheyear.caption
+msgid "Minutes of the year"
+msgstr "一年中的第几分钟"
+
+#: tfrmmain.lbconverttimemonth.caption
+msgctxt "tfrmmain.lbconverttimemonth.caption"
+msgid "Month"
+msgstr "月"
+
+#: tfrmmain.lbconverttimemonthsbetween.caption
+msgid "Months Between"
+msgstr "月差"
+
+#: tfrmmain.lbconverttimesecond.caption
+msgctxt "tfrmmain.lbconverttimesecond.caption"
+msgid "Second"
+msgstr "秒"
+
+#: tfrmmain.lbconverttimesecondsbetween.caption
+msgid "Seconds Between"
+msgstr "秒差"
+
+#: tfrmmain.lbconverttimesecondsoftheday.caption
+msgid "Seconds of the Day"
+msgstr "一天中的第几秒"
+
+#: tfrmmain.lbconverttimesecondsofthemonth.caption
+msgid "Seconds of the Month"
+msgstr "一月中的第几秒"
+
+#: tfrmmain.lbconverttimesecondsoftheyear.caption
+msgid "Seconds of the year"
+msgstr "一年中的第几秒"
+
+#: tfrmmain.lbconverttimetimebetween.caption
+msgid "Time between 1 and 2"
+msgstr "1和2时间差"
+
+#: tfrmmain.lbconverttimevalue.caption
+msgctxt "tfrmmain.lbconverttimevalue.caption"
+msgid "Value"
+msgstr "数值"
+
+#: tfrmmain.lbconverttimeweeksbetween.caption
+msgid "Weeks Between"
+msgstr "星期差"
+
+#: tfrmmain.lbconverttimeweeksoftheyear.caption
+msgid "Weeks of the Year"
+msgstr "一年中的第几周"
+
+#: tfrmmain.lbconverttimeyear.caption
+msgctxt "tfrmmain.lbconverttimeyear.caption"
+msgid "Year"
+msgstr "年"
+
+#: tfrmmain.lbconverttimeyearsbetween.caption
+msgid "Years Between"
+msgstr "年差"
+
+#: tfrmmain.lbcrcdecimalresult.caption
+msgid " Decimal "
+msgstr " 十进制 "
+
+#: tfrmmain.lbcrchexresult.caption
+msgid " Result  H/L (0x) "
+msgstr " 结果  H/L (0x) "
+
+#: tfrmmain.lbdecimaldigits.caption
+msgctxt "tfrmmain.lbdecimaldigits.caption"
+msgid "Decimal Digits"
+msgstr "小数位数"
+
+#: tfrmmain.lbdigitbasebase.caption
+msgctxt "tfrmmain.lbdigitbasebase.caption"
+msgid "Base"
+msgstr "进制"
+
+#: tfrmmain.lbdigitbasecustom.caption
+msgid "Custom"
+msgstr "自定义"
+
+#: tfrmmain.lbdigitbasenumber.caption
+msgid "Number"
+msgstr "数字"
+
+#: tfrmmain.lboptioneditor.caption
+msgid "Editor"
+msgstr "编辑器"
+
+#: tfrmmain.lboptionfont.caption
+msgid "Font"
+msgstr "字体"
+
+#: tfrmmain.lboptiongeneral.caption
+msgid "General"
+msgstr "综合"
+
+#: tfrmmain.lboptioninterface.caption
+msgid "Interface"
+msgstr "界面"
+
+#: tfrmmain.lboptioninterpreter.caption
+msgid "Interpreter"
+msgstr "解释器"
+
+#: tfrmmain.lboptionlanguage.caption
+msgid "Language"
+msgstr "语言"
+
+#: tfrmmain.lboptionlittlecbinfilepath.caption
+#, fuzzy
+msgctxt "tfrmmain.lboptionlittlecbinfilepath.caption"
+msgid "Little C binary file path"
+msgstr "Little C 执行文件路径"
+
+#: tfrmmain.lboptionmaxlinenumberofscriptoutput.caption
+msgid "Maximum line number of script output"
+msgstr "脚本输出最大行数"
+
+#: tfrmmain.lbruncnt.caption
+msgid "Run Count"
+msgstr "运行次数"
+
+#: tfrmmain.lbuptime.caption
+msgid "UpTime"
+msgstr "运行时间"
+
+#: tfrmmain.mitrayexit.caption
+msgid "Exit"
+msgstr "退出"
+
+#: tfrmmain.mitrayoption.caption
+msgctxt "tfrmmain.mitrayoption.caption"
+msgid "Option"
+msgstr "选项"
+
+#: tfrmmain.pmtrayshow.caption
+msgid "Show"
+msgstr "显示"
+
+#: tfrmmain.rbcrc12bits.caption
+msgid "12 bits "
+msgstr "12 位"
+
+#: tfrmmain.rbcrc16bits.caption
+msgid "16 bits "
+msgstr "16 位"
+
+#: tfrmmain.rbcrc32bits.caption
+msgid "32 bits "
+msgstr "32 位"
+
+#: tfrmmain.rbcrc4bits.caption
+msgid "4 bits "
+msgstr "4 位"
+
+#: tfrmmain.rbcrc5bits.caption
+msgid "5 bits "
+msgstr "5 位"
+
+#: tfrmmain.rbcrc6bits.caption
+msgid "6 bits "
+msgstr "6 位"
+
+#: tfrmmain.rbcrc7bits.caption
+msgid "7 bits "
+msgstr "7 位"
+
+#: tfrmmain.rbcrc8bits.caption
+msgid "8 bits "
+msgstr "8 位"
+
+#: tfrmmain.rboptioncalcusempy.caption
+#, fuzzy
+#| msgid "micropython (external)"
+msgctxt "tfrmmain.rboptioncalcusempy.caption"
+msgid "micropython"
+msgstr "micropython"
+
+#: tfrmmain.rboptioncalcusepython.caption
+msgctxt "tfrmmain.rboptioncalcusepython.caption"
+msgid "python (external)"
+msgstr "python (外部)"
+
+#: tfrmmain.tsabout.caption
+msgid "About"
+msgstr "关于"
+
+#: tfrmmain.tscalc.caption
+msgid "Calc"
+msgstr "计算"
+
+#: tfrmmain.tschecksum.caption
+msgid "Checksum"
+msgstr "校验"
+
+#: tfrmmain.tschecksumfile.caption
+msgid "File"
+msgstr "文件"
+
+#: tfrmmain.tscontant.caption
+msgid "Constant"
+msgstr "常数"
+
+#: tfrmmain.tsconvert.caption
+msgid "Convert"
+msgstr "转换"
+
+#: tfrmmain.tsconverttemperature.caption
+msgid "Temperature"
+msgstr "温度"
+
+#: tfrmmain.tsconverttime.caption
+msgid "Time"
+msgstr "时间"
+
+#: tfrmmain.tsdigit.caption
+msgid "Digit"
+msgstr "数字"
+
+#: tfrmmain.tsdigitbase.caption
+msgctxt "tfrmmain.tsdigitbase.caption"
+msgid "Base"
+msgstr "进制"
+
+#: tfrmmain.tsdigitbigfloat.caption
+msgid "BigFloat"
+msgstr "大浮点数"
+
+#: tfrmmain.tsdigitbigint.caption
+msgid "BigInt"
+msgstr "大整数"
+
+#: tfrmmain.tsoption.caption
+msgctxt "tfrmmain.tsoption.caption"
+msgid "Option"
+msgstr "选项"
+
+#: tfrmmain.tsscript.caption
+msgid "Script"
+msgstr "脚本"
+
+#: tfrmmain.tsscriptgraph.caption
+msgid "graph"
+msgstr "graph"
+
+#: tfrmmain.tsscriptlittlec.caption
+msgctxt "tfrmmain.tsscriptlittlec.caption"
+msgid "Little C"
+msgstr "Little C"
+
+#: tfrmmain.tssolve.caption
+msgid "solve"
+msgstr "解题"
+

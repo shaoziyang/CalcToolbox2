@@ -1,0 +1,38 @@
+[basic]
+Caption=温度
+info=来自 CalcToolbox2
+RowCount=6
+DefaultDecimalPlaces=1
+VAR1=T
+VAR2=C
+
+[item]
+Row_1_1=摄氏度 (C)
+Row_1_2=
+Row_1_fomula1=T
+Row_1_fomula2=C
+
+Row_2_1=华氏度 (C)
+Row_2_2=F = C * 1.8 + 32
+Row_2_fomula1=(T-32)/1.8
+Row_2_fomula2=C*1.8+32
+
+Row_3_1=开氏度 (K)
+Row_3_2=K = C + 273.15
+Row_3_fomula1=T - 273.15
+Row_3_fomula2=C + 273.15
+
+Row_4_1=牛顿度
+Row_4_2=Newton = C * 0.33
+Row_4_fomula1=T / 0.33
+Row_4_fomula2=C * 0.33
+
+Row_5_1=列氏度 (Re)
+Row_5_2=Re = C * 0.8
+Row_5_fomula1=T / 0.8
+Row_5_fomula2=C * 0.8
+
+Row_6_1=兰氏度 (Ra)
+Row_6_2=Ra = K * 1.8
+Row_6_fomula1=T/1.8 - 273.15
+Row_6_fomula2=(C+273.15) * 1.8

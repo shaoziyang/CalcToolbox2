@@ -1,0 +1,445 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tfrmmain.btndigitbasecustom.caption
+msgctxt "tfrmmain.btndigitbasecustom.caption"
+msgid "custom base (3-36)"
+msgstr ""
+
+#: tfrmmain.buttonpaneloption.helpbutton.caption
+msgctxt "tfrmmain.buttonpaneloption.helpbutton.caption"
+msgid "&Default"
+msgstr ""
+
+#: tfrmmain.buttonpaneloption.okbutton.caption
+msgctxt "tfrmmain.buttonpaneloption.okbutton.caption"
+msgid "&Apply"
+msgstr ""
+
+#: tfrmmain.chkchecksumfileautosavetofile.caption
+msgid "Auto save to file"
+msgstr ""
+
+#: tfrmmain.chkchecksumfileautoverify.caption
+msgid "Auto verify"
+msgstr ""
+
+#: tfrmmain.chkcrchexmode.caption
+msgid "HEX mode"
+msgstr ""
+
+#: tfrmmain.chkcrcinvin.caption
+msgid "Invert In"
+msgstr ""
+
+#: tfrmmain.chkcrcinvout.caption
+msgid "Invert out"
+msgstr ""
+
+#: tfrmmain.chkoptionbuttonflatsytle.caption
+msgid "Button Flat style"
+msgstr ""
+
+#: tfrmmain.chkoptionclosetotray.caption
+msgid "Close To Tray"
+msgstr ""
+
+#: tfrmmain.chkoptionerrlogen.caption
+msgid "Enable log error to file"
+msgstr ""
+
+#: tfrmmain.chkoptionminimizetotray.caption
+msgid "Minimize To Tray"
+msgstr ""
+
+#: tfrmmain.chkoptionrmccopy.caption
+msgid "Right mouser click copy table cell to clipboard"
+msgstr ""
+
+#: tfrmmain.chkoptiontabalternatecolor.caption
+msgid "Table alternate color"
+msgstr ""
+
+#: tfrmmain.chkoptiontableflatsytle.caption
+msgid "Table Flat style"
+msgstr ""
+
+#: tfrmmain.chkoptiontrayicon.caption
+msgid "Enable TrayIcon"
+msgstr ""
+
+#: tfrmmain.dlgopen_graph.title
+msgid "Open existing graph file"
+msgstr ""
+
+#: tfrmmain.dlgopen_littlec.title
+msgid "Open existing C file"
+msgstr ""
+
+#: tfrmmain.dlgopen_mpy.title
+msgid "Open existing python file"
+msgstr ""
+
+#: tfrmmain.dlgopen_pascal.title
+msgid "Open existing pascal file"
+msgstr ""
+
+#: tfrmmain.dlgsave_graph.title
+msgctxt "tfrmmain.dlgsave_graph.title"
+msgid "Save pascal file as"
+msgstr ""
+
+#: tfrmmain.dlgsave_littlec.title
+msgid "Save C file as"
+msgstr ""
+
+#: tfrmmain.dlgsave_mpy.title
+msgid "Save python file as"
+msgstr ""
+
+#: tfrmmain.dlgsave_pascal.title
+msgctxt "tfrmmain.dlgsave_pascal.title"
+msgid "Save pascal file as"
+msgstr ""
+
+#: tfrmmain.gboptioncalcinterpreter.caption
+msgctxt "tfrmmain.gboptioncalcinterpreter.caption"
+msgid "Calculation Interpreter"
+msgstr ""
+
+#: tfrmmain.gboptionlittlec.caption
+msgctxt "tfrmmain.gboptionlittlec.caption"
+msgid "Little C"
+msgstr ""
+
+#: tfrmmain.lbcalcexpression.caption
+msgctxt "tfrmmain.lbcalcexpression.caption"
+msgid "Expression"
+msgstr ""
+
+#: tfrmmain.lbcalcresult.caption
+msgctxt "tfrmmain.lbcalcresult.caption"
+msgid "Result"
+msgstr ""
+
+#: tfrmmain.lbcalcvarandfunc.caption
+msgctxt "tfrmmain.lbcalcvarandfunc.caption"
+msgid "Python Variables and Functions"
+msgstr ""
+
+#: tfrmmain.lbchecksumfiledescription.caption
+msgid "Drop files to calculate checksum"
+msgstr ""
+
+#: tfrmmain.lbchecksumfiles.caption
+msgctxt "tfrmmain.lbchecksumfiles.caption"
+msgid "Files"
+msgstr ""
+
+#: tfrmmain.lbconverttimeday.caption
+msgctxt "tfrmmain.lbconverttimeday.caption"
+msgid "Day"
+msgstr ""
+
+#: tfrmmain.lbconverttimedaysbetween.caption
+msgid "Days Between"
+msgstr ""
+
+#: tfrmmain.lbconverttimedaysoftheyear.caption
+msgctxt "tfrmmain.lbconverttimedaysoftheyear.caption"
+msgid "Days of the year"
+msgstr ""
+
+#: tfrmmain.lbconverttimehour.caption
+msgctxt "tfrmmain.lbconverttimehour.caption"
+msgid "Hour"
+msgstr ""
+
+#: tfrmmain.lbconverttimehoursbetween.caption
+msgid "Hours Between"
+msgstr ""
+
+#: tfrmmain.lbconverttimehoursofthemonth.caption
+msgid "Hours of the Month"
+msgstr ""
+
+#: tfrmmain.lbconverttimehoursoftheyear.caption
+msgid "Hours of the year"
+msgstr ""
+
+#: tfrmmain.lbconverttimemillisecondsbetween.caption
+msgid "MilliSeconds Between"
+msgstr ""
+
+#: tfrmmain.lbconverttimeminute.caption
+msgid "Minute"
+msgstr ""
+
+#: tfrmmain.lbconverttimeminutesbetween.caption
+msgid "Minutes Between"
+msgstr ""
+
+#: tfrmmain.lbconverttimeminutesoftheday.caption
+msgid "Minutes of the Day"
+msgstr ""
+
+#: tfrmmain.lbconverttimeminutesofthemonth.caption
+msgid "Minutes of the Month"
+msgstr ""
+
+#: tfrmmain.lbconverttimeminutesoftheyear.caption
+msgid "Minutes of the year"
+msgstr ""
+
+#: tfrmmain.lbconverttimemonth.caption
+msgctxt "tfrmmain.lbconverttimemonth.caption"
+msgid "Month"
+msgstr ""
+
+#: tfrmmain.lbconverttimemonthsbetween.caption
+msgid "Months Between"
+msgstr ""
+
+#: tfrmmain.lbconverttimesecond.caption
+msgctxt "tfrmmain.lbconverttimesecond.caption"
+msgid "Second"
+msgstr ""
+
+#: tfrmmain.lbconverttimesecondsbetween.caption
+msgid "Seconds Between"
+msgstr ""
+
+#: tfrmmain.lbconverttimesecondsoftheday.caption
+msgid "Seconds of the Day"
+msgstr ""
+
+#: tfrmmain.lbconverttimesecondsofthemonth.caption
+msgid "Seconds of the Month"
+msgstr ""
+
+#: tfrmmain.lbconverttimesecondsoftheyear.caption
+msgid "Seconds of the year"
+msgstr ""
+
+#: tfrmmain.lbconverttimetimebetween.caption
+msgid "Time between 1 and 2"
+msgstr ""
+
+#: tfrmmain.lbconverttimevalue.caption
+msgctxt "tfrmmain.lbconverttimevalue.caption"
+msgid "Value"
+msgstr ""
+
+#: tfrmmain.lbconverttimeweeksbetween.caption
+msgid "Weeks Between"
+msgstr ""
+
+#: tfrmmain.lbconverttimeweeksoftheyear.caption
+msgid "Weeks of the Year"
+msgstr ""
+
+#: tfrmmain.lbconverttimeyear.caption
+msgctxt "tfrmmain.lbconverttimeyear.caption"
+msgid "Year"
+msgstr ""
+
+#: tfrmmain.lbconverttimeyearsbetween.caption
+msgid "Years Between"
+msgstr ""
+
+#: tfrmmain.lbcrcdecimalresult.caption
+msgctxt "tfrmmain.lbcrcdecimalresult.caption"
+msgid " Decimal "
+msgstr ""
+
+#: tfrmmain.lbcrchexresult.caption
+msgctxt "tfrmmain.lbcrchexresult.caption"
+msgid " Result  H/L (0x) "
+msgstr ""
+
+#: tfrmmain.lbdecimaldigits.caption
+msgctxt "tfrmmain.lbdecimaldigits.caption"
+msgid "Decimal Digits"
+msgstr ""
+
+#: tfrmmain.lbdigitbasebase.caption
+msgctxt "tfrmmain.lbdigitbasebase.caption"
+msgid "Base"
+msgstr ""
+
+#: tfrmmain.lbdigitbasecustom.caption
+msgid "Custom"
+msgstr ""
+
+#: tfrmmain.lbdigitbasenumber.caption
+msgid "Number"
+msgstr ""
+
+#: tfrmmain.lboptioneditor.caption
+msgid "Editor"
+msgstr ""
+
+#: tfrmmain.lboptionfont.caption
+msgid "Font"
+msgstr ""
+
+#: tfrmmain.lboptiongeneral.caption
+msgid "General"
+msgstr ""
+
+#: tfrmmain.lboptioninterface.caption
+msgid "Interface"
+msgstr ""
+
+#: tfrmmain.lboptioninterpreter.caption
+msgid "Interpreter"
+msgstr ""
+
+#: tfrmmain.lboptionlanguage.caption
+msgid "Language"
+msgstr ""
+
+#: tfrmmain.lboptionlittlecbinfilepath.caption
+msgctxt "tfrmmain.lboptionlittlecbinfilepath.caption"
+msgid "Little C binary file path"
+msgstr ""
+
+#: tfrmmain.lboptionmaxlinenumberofscriptoutput.caption
+msgid "Maximum line number of script output"
+msgstr ""
+
+#: tfrmmain.lbruncnt.caption
+msgid "Run Count"
+msgstr ""
+
+#: tfrmmain.lbuptime.caption
+msgid "UpTime"
+msgstr ""
+
+#: tfrmmain.mitrayexit.caption
+msgid "Exit"
+msgstr ""
+
+#: tfrmmain.mitrayoption.caption
+msgctxt "tfrmmain.mitrayoption.caption"
+msgid "Option"
+msgstr ""
+
+#: tfrmmain.pmtrayshow.caption
+msgid "Show"
+msgstr ""
+
+#: tfrmmain.rbcrc12bits.caption
+msgid "12 bits "
+msgstr ""
+
+#: tfrmmain.rbcrc16bits.caption
+msgid "16 bits "
+msgstr ""
+
+#: tfrmmain.rbcrc32bits.caption
+msgid "32 bits "
+msgstr ""
+
+#: tfrmmain.rbcrc4bits.caption
+msgid "4 bits "
+msgstr ""
+
+#: tfrmmain.rbcrc5bits.caption
+msgid "5 bits "
+msgstr ""
+
+#: tfrmmain.rbcrc6bits.caption
+msgid "6 bits "
+msgstr ""
+
+#: tfrmmain.rbcrc7bits.caption
+msgid "7 bits "
+msgstr ""
+
+#: tfrmmain.rbcrc8bits.caption
+msgid "8 bits "
+msgstr ""
+
+#: tfrmmain.rboptioncalcusempy.caption
+msgctxt "tfrmmain.rboptioncalcusempy.caption"
+msgid "micropython"
+msgstr ""
+
+#: tfrmmain.rboptioncalcusepython.caption
+msgctxt "tfrmmain.rboptioncalcusepython.caption"
+msgid "python (external)"
+msgstr ""
+
+#: tfrmmain.tsabout.caption
+msgid "About"
+msgstr ""
+
+#: tfrmmain.tscalc.caption
+msgid "Calc"
+msgstr ""
+
+#: tfrmmain.tschecksum.caption
+msgid "Checksum"
+msgstr ""
+
+#: tfrmmain.tschecksumfile.caption
+msgid "File"
+msgstr ""
+
+#: tfrmmain.tscontant.caption
+msgid "Constant"
+msgstr ""
+
+#: tfrmmain.tsconvert.caption
+msgid "Convert"
+msgstr ""
+
+#: tfrmmain.tsconverttemperature.caption
+msgid "Temperature"
+msgstr ""
+
+#: tfrmmain.tsconverttime.caption
+msgctxt "tfrmmain.tsconverttime.caption"
+msgid "Time"
+msgstr ""
+
+#: tfrmmain.tsdigit.caption
+msgid "Digit"
+msgstr ""
+
+#: tfrmmain.tsdigitbase.caption
+msgctxt "tfrmmain.tsdigitbase.caption"
+msgid "Base"
+msgstr ""
+
+#: tfrmmain.tsdigitbigfloat.caption
+msgid "BigFloat"
+msgstr ""
+
+#: tfrmmain.tsdigitbigint.caption
+msgid "BigInt"
+msgstr ""
+
+#: tfrmmain.tsoption.caption
+msgctxt "tfrmmain.tsoption.caption"
+msgid "Option"
+msgstr ""
+
+#: tfrmmain.tsscript.caption
+msgid "Script"
+msgstr ""
+
+#: tfrmmain.tsscriptgraph.caption
+msgid "graph"
+msgstr ""
+
+#: tfrmmain.tsscriptlittlec.caption
+msgctxt "tfrmmain.tsscriptlittlec.caption"
+msgid "Little C"
+msgstr ""
+
+#: tfrmmain.tssolve.caption
+msgid "solve"
+msgstr ""
+
