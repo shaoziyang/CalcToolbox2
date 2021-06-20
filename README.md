@@ -42,3 +42,4 @@ Calc Toolbox 2 is develop with Lazarus 2.0.12 and FPC 3.2.0, and use some third 
 ## Link
 
 - [Change log](changelog.md)
+- [Todo](Todo.md)
